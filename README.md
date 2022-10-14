@@ -1,2 +1,2 @@
-# radi.py_vc
-radi.py version check
+# rd_vc
+version check
